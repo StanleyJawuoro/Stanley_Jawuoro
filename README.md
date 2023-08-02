@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @StanleyJawuoro. This repo is meant for maintaining a workflow for Cash for Health data analysis
+- and any future analyses, as the case may be
+- 
